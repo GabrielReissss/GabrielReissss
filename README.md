@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**GabrielReissss/GabrielReissss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭Atualmente estou em busca de trabalho na area de Desenvolvimento.
+
+🌱Eestou aprendendo HTML, CSS, JavaScript e SQL.
+
+📫Como chegar até mim:
+ * https://github.com/GabrielReissss
+ * https://www.linkedin.com/in/gabriel-reis-a4670a192/
+ * reisgabriel@me.com
+ * (51) 98927-6893
