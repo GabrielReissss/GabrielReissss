@@ -4,7 +4,7 @@
 
 🔭Atualmente estou em busca de trabalho na area de Desenvolvimento.
 
-🌱Eestou aprendendo HTML, CSS, JavaScript e SQL.
+🌱Eestou aprendendo **HTML, CSS, JavaScript e SQL**.
 
 📫Como chegar até mim:
  * https://github.com/GabrielReissss
