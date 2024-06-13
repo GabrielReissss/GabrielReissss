@@ -4,10 +4,10 @@
 
 🔭Atualmente estou em busca de trabalho na area de Desenvolvimento.
 
-🌱Estou aprendendo **HTML, CSS, JavaScript e SQL**.
+ Estou aprendendo **Java, HTML, CSS, JavaScript, TypeScript e SQL**.
 
 📫Como chegar até mim:
  * https://github.com/GabrielReissss
- * https://www.linkedin.com/in/gabriel-reis-a4670a192/
+ * https://www.linkedin.com/in/gabriel-reiss/
  * reisgabriel@me.com
  * (51) 98927-6893
