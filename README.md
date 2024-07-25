@@ -2,7 +2,7 @@
 
 
 
-🔭Atualmente estou em busca de trabalho na area de Desenvolvimento.
+🔭Atualmente trabalho como Auxliar de TI - Suporte N1 e desejo trabalhar na area de Desenvolvimento.
 
  Estou aprendendo **Java, HTML, CSS, JavaScript, TypeScript e SQL**.
 
